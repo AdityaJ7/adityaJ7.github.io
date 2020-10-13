@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Aditya Jetely</title>
+    <link>https://adityaj7.github.io/tags/</link>
+    <description>Recent content in Tags on Aditya Jetely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2020 19:20:43 +0530</lastBuildDate><atom:link href="https://adityaj7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data-analysis</title>
+      <link>https://adityaj7.github.io/tags/data-analysis/</link>
+      <pubDate>Tue, 13 Oct 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-science</title>
+      <link>https://adityaj7.github.io/tags/data-science/</link>
+      <pubDate>Tue, 13 Oct 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://adityaj7.github.io/tags/python/</link>
+      <pubDate>Tue, 13 Oct 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first-timers</title>
+      <link>https://adityaj7.github.io/tags/first-timers/</link>
+      <pubDate>Tue, 01 Sep 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/tags/first-timers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://adityaj7.github.io/tags/open-source/</link>
+      <pubDate>Tue, 01 Sep 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survival-analysis</title>
+      <link>https://adityaj7.github.io/tags/survival-analysis/</link>
+      <pubDate>Sun, 21 Jun 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/tags/survival-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

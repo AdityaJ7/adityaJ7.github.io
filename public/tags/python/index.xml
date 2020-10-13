@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Aditya Jetely</title>
+    <link>https://adityaj7.github.io/tags/python/</link>
+    <description>Recent content in python on Aditya Jetely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2020 19:20:43 +0530</lastBuildDate><atom:link href="https://adityaj7.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handwritten Digits Prediction Analysis</title>
+      <link>https://adityaj7.github.io/posts/some-slug/</link>
+      <pubDate>Tue, 13 Oct 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/posts/some-slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Games Sales Analysis</title>
+      <link>https://adityaj7.github.io/posts/some-slug/</link>
+      <pubDate>Tue, 13 Oct 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/posts/some-slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meteorological Data Analysis</title>
+      <link>https://adityaj7.github.io/posts/some-slug/</link>
+      <pubDate>Mon, 12 Oct 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/posts/some-slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yet Another Iris EDA</title>
+      <link>https://adityaj7.github.io/posts/some-slug/</link>
+      <pubDate>Mon, 12 Oct 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/posts/some-slug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival Functions 101</title>
+      <link>https://adityaj7.github.io/posts/some-slug/</link>
+      <pubDate>Sun, 21 Jun 2020 19:20:43 +0530</pubDate>
+      
+      <guid>https://adityaj7.github.io/posts/some-slug/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
