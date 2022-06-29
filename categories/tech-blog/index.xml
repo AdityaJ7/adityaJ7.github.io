@@ -6,7 +6,11 @@
     <description>Recent content in tech-blog on Aditya Jetely</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2020 19:20:43 +0530</lastBuildDate><atom:link href="https://adityaj7.github.io/categories/tech-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2020 19:20:43 +0530</lastBuildDate>
+    
+	<atom:link href="https://adityaj7.github.io/categories/tech-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Handwritten Digits Prediction Analysis</title>
       <link>https://adityaj7.github.io/posts/some-slug/</link>

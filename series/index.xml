@@ -5,6 +5,10 @@
     <link>https://adityaj7.github.io/series/</link>
     <description>Recent content in Series on Aditya Jetely</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://adityaj7.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    
+	<atom:link href="https://adityaj7.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

@@ -6,7 +6,11 @@
     <description>Recent content on Aditya Jetely</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2020 19:20:43 +0530</lastBuildDate><atom:link href="https://adityaj7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2020 19:20:43 +0530</lastBuildDate>
+    
+	<atom:link href="https://adityaj7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Handwritten Digits Prediction Analysis</title>
       <link>https://adityaj7.github.io/posts/some-slug/</link>
@@ -67,8 +71,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://adityaj7.github.io/about/</guid>
-      <description>Hello there, I am Aditya Jetely. I’m 21 years old and pursuing a degree in B.Tech Electronics and Communication at Galgotia&amp;rsquo;s College of Engineering and Technology, Greater Noida.
-My main interest lies in Machine Learning, Economics and Data Analysis. I like working on challenging projects and am always curious to learn new things In my free time I also like watching movies and cricket. I’m looking to collaborate on Open Sourced Python 🐍 projects.</description>
+      <description>Hey there, I am Aditya Jetely. I’m 23 years old and I am Python Developer.
+My main interest lies in API development and I like working on challenging projects and am always curious to learn new things. In my free time I also like watching movies and cricket.I’m looking to collaborate on Open Sourced Python 🐍 projects.
+My current goals are to improve my cloud computing knowledge and to learn the MERN stack.</description>
     </item>
     
     <item>
